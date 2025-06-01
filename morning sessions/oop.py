@@ -27,7 +27,7 @@ class Cat (Animal):
 cat1 = Cat()
 
 #callmg the inherited method
-cat1.sound()
+cat1.speak()
 
 
 #polymorphism 
