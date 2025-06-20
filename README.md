@@ -1,3 +1,3 @@
-# DS-recess-yr2-class-notes-and-assignments
-# DS-recess-yr2-class-notes-and-assignments
-# laravel-assignment
+Data science
+machine learning with dr jeff, dr livingstone
+superveised by dr Ruth
